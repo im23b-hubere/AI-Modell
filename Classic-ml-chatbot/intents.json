@@ -1,0 +1,72 @@
+[
+  {
+    "intent": "greeting",
+    "examples": [
+      "Hallo",
+      "Hi",
+      "Guten Morgen",
+      "Hey",
+      "Servus"
+    ]
+  },
+  {
+    "intent": "goodbye",
+    "examples": [
+      "Tschüss",
+      "Bis bald",
+      "Auf Wiedersehen",
+      "Mach's gut",
+      "Bye"
+    ]
+  },
+  {
+    "intent": "how_are_you",
+    "examples": [
+      "Wie geht es dir?",
+      "Alles klar bei dir?",
+      "Wie läuft's?",
+      "Na, wie geht's?",
+      "Geht's dir gut?"
+    ]
+  },
+  {
+    "intent": "thanks",
+    "examples": [
+      "Danke",
+      "Vielen Dank",
+      "Danke dir",
+      "Danke schön",
+      "Ich danke dir"
+    ]
+  },
+  {
+    "intent": "weather",
+    "examples": [
+      "Wie ist das Wetter?",
+      "Ist es draußen schön?",
+      "Regnet es?",
+      "Scheint die Sonne?",
+      "Wie wird das Wetter heute?"
+    ]
+  },
+  {
+    "intent": "name",
+    "examples": [
+      "Wie heißt du?",
+      "Wer bist du?",
+      "Wie ist dein Name?",
+      "Kannst du mir deinen Namen sagen?",
+      "Wie darf ich dich nennen?"
+    ]
+  },
+  {
+    "intent": "age",
+    "examples": [
+      "Wie alt bist du?",
+      "Wann bist du geboren?",
+      "Bist du jung oder alt?",
+      "Wie lange gibt es dich schon?",
+      "Seit wann existierst du?"
+    ]
+  }
+] 
